@@ -139,6 +139,12 @@
 				<statOffsets>
 					<HungerRateMultiplier>-0.35</HungerRateMultiplier>					
 				</statOffsets>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.1</offset>
+					</li>
+				</capMods>
 			</li>
 		</stages>
 	</HediffDef>
@@ -169,6 +175,12 @@
 				<statOffsets>
 					<HungerRateMultiplier>-0.35</HungerRateMultiplier>					
 				</statOffsets>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.1</offset>
+					</li>
+				</capMods>
 			</li>
 		</stages>
 	</HediffDef>
@@ -199,6 +211,12 @@
 				<statOffsets>
 					<HungerRateMultiplier>-0.35</HungerRateMultiplier>					
 				</statOffsets>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.1</offset>
+					</li>
+				</capMods>
 			</li>
 		</stages>
 	</HediffDef>
@@ -231,6 +249,12 @@
 				<statOffsets>
 					<HungerRateMultiplier>-0.35</HungerRateMultiplier>					
 				</statOffsets>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.1</offset>
+					</li>
+				</capMods>
 			</li>
 		</stages>
 	</HediffDef>
